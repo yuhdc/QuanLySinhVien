@@ -1,3 +1,4 @@
-var LopHoc = function () {
+var LopHoc = function() {
     this.tenLop = '';
+    this.Malop = '';
 }
